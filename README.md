@@ -1,3 +1,4 @@
 creating a new branch is quick
 1234
-master-xxxx
+<<<<<<< HEAD
+master-xxxx && feature1 xxxxx
